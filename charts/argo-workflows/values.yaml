@@ -1,4 +1,4 @@
-images: test
+images: 
   # -- Common tag for Argo Workflows images. Defaults to `.Chart.AppVersion`.
   tag: ""
   # -- imagePullPolicy to apply to all containers
